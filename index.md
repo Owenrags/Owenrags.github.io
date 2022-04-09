@@ -16,5 +16,3 @@ Florida State University <br/>
 Tallahassee, Florida, 32306 <br/>
 
 [Email:Otr21a@my.fsu.edu](mailto:otr21a@my.fsu.edu)
-
-[Web Page:](https://paulmbeaumont.netlify.app/)
