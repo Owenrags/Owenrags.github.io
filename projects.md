@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Analysis of Economic Data: Spring 2022
 ---
 
 Here are examples of research projects generated with R Studio using TidyR and RMarkdown.
