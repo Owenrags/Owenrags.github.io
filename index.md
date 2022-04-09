@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analysis of Economic Data
+title: Project Page
 ---
 
 ##  Projects
@@ -10,11 +10,11 @@ title: Analysis of Economic Data
 
 ## Contact Information 
 
-Paul Beaumont<br/>
-Department of Economics<br/>
+Owen Ragsdale <br/>
+Graduate Student <br/>
 Florida State University <br/>
 Tallahassee, Florida, 32306 <br/>
 
-[Email:beaumont@fsu.edu](mailto:beaumont@fsu.edu)
+[Email:Otr21a@my.fsu.edu](mailto:otr21a@my.fsu.edu)
 
 [Web Page:](https://paulmbeaumont.netlify.app/)
