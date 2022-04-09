@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analysis of Economic Data: Spring 2022
+title: Analysis of Economic Data
 ---
 
 ##  Projects
